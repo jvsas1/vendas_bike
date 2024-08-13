@@ -13,4 +13,3 @@ Este projeto analisa dados de vendas de bicicletas, organizados em várias tabel
 ## Ferramentas Utilizadas
 - MySQL
 - SQL Power Architect
-- CSV
